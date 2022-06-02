@@ -16,9 +16,8 @@
 
 ## 💻 Projeto
 
-<p align="justify">O Upfi é um aplicativo que tem como principal objetivo fazer upload de imagens. Ele faz requisições para sua própria API Nextjs que rotarna os dados
-  do FaunaDB(banco de dados- irá armazenar os -url, títulos e descrições - das imagens) e do ImgBB(serviço de hospedagem de imagens). Ele é estilizado com Chakra UI e utiliza das libs React Query, React Hook Form.
-  É um desafio proposto pela Escola Rocketseat em seu curso Ignite de React.
+<p align="justify">
+  O upfi é um aplicativo que tem como principal objetivo fazer upload de imagens, o usuário abre um modal e pode upar imagens e GIFs, colocando um título e uma   descrição. O app faz requisições para sua própria API Nextjs que rotarna os dados do FaunaDB(banco de dados- irá armazenar os -url, títulos e descrições - das imagens) e do ImgBB(serviço de hospedagem de imagens). Ele é estilizado com Chakra UI e utiliza das libs React Query, React Hook Form. É um desafio proposto pela Escola Rocketseat em seu curso Ignite de React.
 </p>
 
 ## 🔖 Layout
